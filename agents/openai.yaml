@@ -1,1 +1,4 @@
-
+interface:
+  display_name: "花叔工作流 · TikTok 印尼站"
+  short_description: "Codex 优先生成印尼语脚本与分镜，仅缺必要视频证据时调用 Gemini"
+  default_prompt: "使用 $huashu-tiktok-id-script，根据我的产品资料和参考视频，生成印尼语台词＋中文说明的 TikTok 制作表，并完成四维审稿改写。"
